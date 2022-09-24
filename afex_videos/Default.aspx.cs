@@ -14,9 +14,6 @@ namespace afex_videos
         /// <param name="e"></param>
         protected void Page_Load(object sender, EventArgs e)
         {
-            // Google Youtube API Key
-            // AIzaSyAXHG6LYuvw9rxlLGV2N7K-H-3JnGSnybY
-
             if (IsPostBack)
             {
                 if (Request.Params.Get("__EVENTARGUMENT") != null && Request.Params.Get("__EVENTARGUMENT") != "")
