@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "afex_videos", "afex_videos\afex_videos.csproj", "{2E89D267-9851-4C54-BEB6-1CFAA680B77E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E89D267-9851-4C54-BEB6-1CFAA680B77E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E89D267-9851-4C54-BEB6-1CFAA680B77E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E89D267-9851-4C54-BEB6-1CFAA680B77E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E89D267-9851-4C54-BEB6-1CFAA680B77E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {835FC6A5-962F-45BE-A144-345A7C3271C8}
+	EndGlobalSection
+EndGlobal
